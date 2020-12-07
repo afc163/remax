@@ -25,7 +25,7 @@
     "react-is": "^16.13.1"
   },
   "devDependencies": {
-    "@types/react": "^16.9.33",
+    "@types/react": "^17.0.0",
     "@types/react-is": "^16.7.1",
     "react-test-renderer": "^16.9.0"
   },
